@@ -1,4 +1,4 @@
-I am creative collaborator. Leveraging my experience as a full-stack developer and focus on design and user experience. Well versed in ReactJS,NodeJS,tailwindCss ans of course JavaScript.
+I am creative collaborator. Leveraging my experience as a full-stack developer and focus on design and user experience. Well versed in ReactJS,NodeJS,tailwindCss ansd of course JavaScript.
 
 
 <!---
